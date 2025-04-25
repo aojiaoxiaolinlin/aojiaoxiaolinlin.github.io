@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "-傲娇小霖霖的小站-",
+    "home_page_url": "https://aojiaoxiaolinlin.github.io/",
+    "feed_url": "https://aojiaoxiaolinlin.github.io/feed.json",
+    "description": "Rust 、Bevy引擎开发者",
+    "icon": "https://0.gravatar.com/avatar/8d6b7dcb5db669d2eae071565d3352143e7d6258780023958db9172a63172da5?size=512",
+    "author": {
+        "name": "傲娇小霖霖",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Bevy 渲染图结构介绍</h2>\n<p><strong><code>RenderGraph</code></strong> 是<code>bevy</code>用来处理渲染工作负载的任务调度器，是由<code>Nodes</code>和<code>Edges</code>（节点和边）连接成一个有向无环计算图。<br>\n每个节</p>\n<br/><p>访问 <a href=\"https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph\" target=\"_blank\">https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph</a> 阅读全文。</p>",
+            "url": "https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph",
+            "title": "Bevy 渲染图结构",
+            "date_modified": "2025-04-24T00:00:00.000Z",
+            "date_published": "2025-04-24T00:00:00.000Z",
+            "author": {
+                "name": "傲娇小霖霖",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

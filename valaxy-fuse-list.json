@@ -1,0 +1,1 @@
+[{"title":"Bevy 渲染图结构","tags":["Bevy","渲染"],"categories":["Bevy"],"author":"傲娇小霖霖","excerpt":"\n## Bevy 渲染图结构介绍\n\n**`RenderGraph`** 是`bevy`用来处理渲染工作负载的任务调度器，是由`Nodes`和`Edges`（节点和边）连接成一个有向无环计算图。\n每个节","link":"/posts/bevy-render-graph"}]

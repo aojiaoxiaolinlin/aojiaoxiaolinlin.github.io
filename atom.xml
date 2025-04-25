@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aojiaoxiaolinlin.github.io/</id>
+    <title>-傲娇小霖霖的小站-</title>
+    <updated>2025-04-25T13:24:20.436Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>傲娇小霖霖</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://aojiaoxiaolinlin.github.io/"/>
+    <link rel="self" href="https://aojiaoxiaolinlin.github.io/atom.xml"/>
+    <subtitle>Rust 、Bevy引擎开发者</subtitle>
+    <logo>https://0.gravatar.com/avatar/8d6b7dcb5db669d2eae071565d3352143e7d6258780023958db9172a63172da5?size=512</logo>
+    <icon>https://aojiaoxiaolinlin.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 傲娇小霖霖</rights>
+    <entry>
+        <title type="html"><![CDATA[Bevy 渲染图结构]]></title>
+        <id>https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph</id>
+        <link href="https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Bevy 渲染图结构介绍</h2>
+<p><strong><code>RenderGraph</code></strong> 是<code>bevy</code>用来处理渲染工作负载的任务调度器，是由<code>Nodes</code>和<code>Edges</code>（节点和边）连接成一个有向无环计算图。<br>
+每个节</p>
+<br/><p>访问 <a href="https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph" target="_blank">https://aojiaoxiaolinlin.github.io/posts/bevy-render-graph</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>傲娇小霖霖</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-24T00:00:00.000Z</published>
+    </entry>
+</feed>
